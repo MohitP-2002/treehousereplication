@@ -92,8 +92,6 @@ border-radius: 0 0 5px 5px;
 .head{
     width:100%;
     padding:0px;
-    height:525px;
-    max-width: 500px;
     margin:0px;
     object-fit: cover;
 }
